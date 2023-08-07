@@ -1,3 +1,7 @@
 .bannter-text{
     color: #A1CCD1;
 }
+.banner-text1{
+    -webkit-text-stroke: 5px #4E4FEB;
+    text-transform: uppercase;
+}
