@@ -1,0 +1,17 @@
+.navbar{
+    border: 3px solid green;
+    background-color: #4E4FEB;
+    color: white;
+}
+.navbarItems{
+    font-weight: bolder;
+    font-size: 17px;
+}
+.logo{
+    -webkit-text-stroke: 3px #000;
+    
+}
+.btn{
+    background-color: #5A96E3;
+    border: none;
+}
