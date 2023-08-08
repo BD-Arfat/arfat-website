@@ -1,0 +1,17 @@
+.skills{
+    background-image: url('https://img.freepik.com/free-vector/modern-blue-star-background-design_23-2147742910.jpg?w=2000');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+}
+.glide__arrow {
+    position: absolute;
+    display: block;
+    top: 50%;
+    z-index: 2;
+    opacity: 1;
+    transform: translateY(-50%);
+}
