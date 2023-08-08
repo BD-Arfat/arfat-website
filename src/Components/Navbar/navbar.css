@@ -1,17 +1,26 @@
-.navbar{
+.navbar {
     border: 3px solid green;
     background-color: #4E4FEB;
     color: white;
 }
-.navbarItems{
+
+.navbarItems {
     font-weight: bolder;
     font-size: 17px;
 }
-.logo{
-    -webkit-text-stroke: 3px #000;
-    
+
+.logo {
+    -webkit-text-stroke: 1px #000;
+    background-image: url('https://th.bing.com/th/id/OIP.SodTHE4yGCwfQMCI2TE-3AHaEo?w=285&h=180&c=7&r=0&o=5&pid=1.7');
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+
 }
-.btn{
+
+.btn {
     background-color: #5A96E3;
     border: none;
 }
