@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "𝐂𝐚𝐫 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐂𝐞𝐧𝐭𝐞𝐫",
+        "image" : "https://i.ibb.co/TmqW0qb/projects-1.jpg",
+        "dis1" : "✔ User can filter products by Search and category and User can sort products by Price.",
+        "dis2" : "✔ Authenticated User can Add products",
+        "dis3" : "✔ He/she can edit and delete products",
+        "dis4" : "✔ He/she can make a Product",
+        "dis5" : "✔ He/she can change product status and delete from Wishlist",
+        "dis6" : "✔ Here are the payment methods used",
+        "dis7" : "✔ This full stack site may be a mini e-commerce site.",
+        "Technology" : " redux, redux toolkit, React Router, Firebase, sslcommerz NodeJS 😍",
+        "live" : "https://carfusioncenter.netlify.app/",
+        "github" : "https://github.com/BD-Arfat/CarFusionCenter",
+        "server" : "https://github.com/BD-Arfat/redux-car-shops-server"
+    },
+    {
+        "id" : 2,
+        "name" : "Foodie Crush",
+        "image" : "https://i.ibb.co/ZVRJ5SY/projects-2.jpg",
+        "dis1" : "✔ User can filter products by Search and category and User can sort products by Price.",
+        "dis2" : "✔ Authenticated User can Add products",
+        "dis3" : "✔ He/she can edit and delete products",
+        "dis4" : "✔ He/she can make a Product",
+        "dis5" : "✔ He/she can change product status and delete from Wishlist",
+        "dis6" : "✔ Here are the payment methods used",
+        "dis7" : "✔ This full stack site may be a mini e-commerce site.",
+        "Technology" : " redux, redux toolkit, React Router, Firebase, sslcommerz NodeJS 😍",
+        "live" : "https://carfusioncenter.netlify.app/",
+        "github" : "https://github.com/BD-Arfat/CarFusionCenter",
+        "server" : "https://github.com/BD-Arfat/redux-car-shops-server"
+    },
+    {
+        "id" : 3,
+        "name" : "Mobile-Shops",
+        "image" : "https://i.ibb.co/sF060ss/projects-3.jpg",
+        "dis1" : "✔ User can filter products by Search and category and User can sort products by Price.",
+        "dis2" : "✔ Authenticated User can Add products",
+        "dis3" : "✔ He/she can edit and delete products",
+        "dis4" : "✔ He/she can make a Product",
+        "dis5" : "✔ He/she can change product status and delete from Wishlist",
+        "dis6" : "✔ Here are the payment methods used",
+        "dis7" : "✔ This full stack site may be a mini e-commerce site.",
+        "Technology" : " redux, redux toolkit, React Router, Firebase, sslcommerz NodeJS 😍",
+        "live" : "https://carfusioncenter.netlify.app/",
+        "github" : "https://github.com/BD-Arfat/CarFusionCenter",
+        "server" : "https://github.com/BD-Arfat/redux-car-shops-server"
+    }
+]
