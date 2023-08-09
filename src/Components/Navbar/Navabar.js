@@ -8,7 +8,6 @@ const Navabar = () => {
         <li className='navbarItems'><Link to={'/'}>Home</Link></li>
         <li className='navbarItems'><Link to={'/about'}>Abouts</Link></li>
         <li className='navbarItems'><Link to={'/skill'}>Skills</Link></li>
-        <li className='navbarItems'><Link>Experience</Link></li>
         <li className='navbarItems'><Link to={'/projects'}>Projects</Link></li>
         <li className='navbarItems'><Link>Service</Link></li>
         <li className='navbarItems'><Link>Contact</Link></li>
