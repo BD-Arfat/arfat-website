@@ -30,7 +30,8 @@ export const router = createBrowserRouter([
             {
                 path: '/product/:id',
                 loader: async({params})=>{
-                    return fetch(`http://localhost:3000/product/${params.id}`)
+                    // console.log(params.id)
+                    return fetch(`db.json/products/${params?.id}`)
                 },
                 element : <Product/>
             }
