@@ -4,10 +4,10 @@ import './About.css'
 
 const About = () => {
     return (
-        <div className='about pt-16 pb-32'>
+        <div className='about pt-24 pb-32'>
             <h1 className='logo text-6xl font-bold'>ABOUT ME</h1>
             <div>
-                <div className="hero pt-20 text-white w-11/12 mx-auto">
+                <div className="hero pt-16 text-white w-11/12 mx-auto">
                     <div className="hero-content flex-col lg:flex-row">
                         <img alt='' src={about} className="w-96 rounded-xl aboutImage" />
                         <div className='text-justify w-1/2'>

@@ -10,7 +10,7 @@ const Project = ({data}) => {
                     <h2 className=" text-2xl font-bold text-white text-center">{data.name}</h2>
                     <p></p>
                     <div className="card-actions justify-end">
-                        <Link to={`/products/${data.id}`} className="btn btn-primary btn-outline w-full">All details</Link>
+                        <Link to={`/product/${data.id}`} className="btn btn-primary btn-outline w-full">All details</Link>
                     </div>
                 </div>
             </div>

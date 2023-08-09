@@ -1,0 +1,9 @@
+.project{
+    background-image: url('https://img.freepik.com/premium-vector/night-sky-background_135176-29.jpg?size=626&ext=jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    height: 100vh;
+}

@@ -4,7 +4,7 @@ import './footer.css'
 const Footer = () => {
     return (
         <div>
-            <footer className="footer mt-28 footer-center p-10 bg-primary text-primary-content">
+            <footer className="footer mt-4 footer-center p-10 bg-primary text-primary-content">
                 <div>
                    <img src="https://bd-arfat.github.io/Portfolio-Website/assets/images/photo_2023-04-25_21-03-38.jpg" className='w-24 rounded-full footer-image' alt="" />
                     <p className="font-bold">
