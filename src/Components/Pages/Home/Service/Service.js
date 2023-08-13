@@ -2,7 +2,7 @@ import React from 'react';
 
 const Service = () => {
     return (
-        <div className='about pt-14 pb-20 mt-5'>
+        <div className='about pt-14 pb-20 mt-10'>
             <h1 className='logo text-6xl font-bold'>My Service</h1>
             <div className='w-11/12 mx-auto grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-16'>
                 {/* 1 */}

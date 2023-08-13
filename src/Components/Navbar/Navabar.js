@@ -9,8 +9,8 @@ const Navabar = () => {
         <li className='navbarItems'><Link to={'/about'}>Abouts</Link></li>
         <li className='navbarItems'><Link to={'/skill'}>Skills</Link></li>
         <li className='navbarItems'><Link to={'/projects'}>Projects</Link></li>
-        <li className='navbarItems'><Link>Service</Link></li>
-        <li className='navbarItems'><Link>Contact</Link></li>
+        <li className='navbarItems'><Link to={'/service'}>Service</Link></li>
+        <li className='navbarItems'><Link to={'/contact'}>Contact</Link></li>
     </>
 
     return (

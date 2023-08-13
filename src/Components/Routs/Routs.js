@@ -5,6 +5,8 @@ import Projects from "../Pages/Home/Projects/Projects";
 import About from "../Pages/Home/About/About";
 import Skills from "../Pages/Home/skill/Skills";
 import Product from "../product/Product";
+import Service from "../Pages/Home/Service/Service";
+import Contact from "../Pages/Home/Contact/Contact";
 
 export const router = createBrowserRouter([
     {
@@ -34,6 +36,14 @@ export const router = createBrowserRouter([
                     return fetch(`db.json/products/${params?.id}`)
                 },
                 element : <Product/>
+            },
+            {
+                path: '/service',
+                element : <Service/>
+            },
+            {
+                path : '/contact',
+                element : <Contact/>
             }
         ]
     }
