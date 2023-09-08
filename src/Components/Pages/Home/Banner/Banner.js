@@ -8,7 +8,7 @@ const Banner = () => {
         <div className='mb-5 banner'>
             
             <h1 draggable='true' className='text-white md:pt-[280px] md:text-7xl font-bold banner-text1'>Welcome to our website</h1>
-            <h1 draggable='true' className='mt-8 text-white font-bold text-3xl bannter-text'> ARIFUFL ISLAM ARFAT</h1>
+            <h1 draggable='true' className='md:mt-8 mt-32 text-white font-bold text-3xl bannter-text'> ARIFUFL ISLAM ARFAT</h1>
             <h5 className='text-2xl mt-5 text-white font-bold'>I'am A
                 <span className='ms-3 animate' >
                     {/* Style will be inherited from the parent element */}
