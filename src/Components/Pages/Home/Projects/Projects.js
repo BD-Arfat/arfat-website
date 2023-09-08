@@ -6,18 +6,18 @@ const Projects = () => {
 
     const [projects, setProjects] = useState([]);
     useEffect( ()=>{
-        fetch('db.json')
+        fetch('http://localhost:5000/projects')
         .then(res => res.json())
         .then(data => setProjects(data))
     } ,[])
 
     return (
         <div className='projects mt-5'>
-            <div className=" mb-12">
+            <div className="">
                 <h1 className='logo font-bold md:text-6xl text-5xl pt-20 pb-16'>My Projects</h1>
-                <div className='grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
+                <div className='my-20 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
                     {
-                        projects.map(data => <Project key={data.id} data={data} />)
+                        projects.map(data => <Project key={data._id} data={data} />)
                     }
                 </div>
             </div>
