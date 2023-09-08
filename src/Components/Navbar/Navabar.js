@@ -34,7 +34,7 @@ const Navabar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link target='_blank' to={'https://drive.google.com/file/d/1U4D0SrCt3eV10EqWL9J_UtosAdIEHLu1/view?usp=sharing'} className="btn px-10 text-white font-bold btn-info">Resume</Link>
+                <Link target='_blank' to={'https://drive.google.com/file/d/1e5Tcun5Z8IhsiL8I66m6_uDJZ4HMoqST/view?usp=sharing'} className="btn px-10 text-white font-bold btn-info">Resume</Link>
             </div>
         </div>
     );

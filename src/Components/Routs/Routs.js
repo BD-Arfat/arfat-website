@@ -32,7 +32,7 @@ export const router = createBrowserRouter([
             {
                 path: '/product/:id',
                 element : <Product/>,
-                loader : ({params})=> fetch(`http://localhost:5000/projects/${params.id}`)
+                loader : ({params})=> fetch(` https://ariful-islam-pi.vercel.app/projects/${params.id}`)
             },
             {
                 path: '/service',

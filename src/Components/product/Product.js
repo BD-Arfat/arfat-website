@@ -11,7 +11,7 @@ const Product = () => {
     return (
         <div className='project'>
             <div className="card lg:card-side bg-base-100 mx-28 shadow-xl my-36">
-                <figure><img src={image} className='w-96' alt="Album" /></figure>
+                <figure><img src={image} className='w-96 rounded-md ps-3' alt="Album" /></figure>
                 <div className="text-justify w-1/2 ms-5 py-3">
                     <h2 className="card-title text-3xl font-bold text-white">{name}</h2>
                     <div className="py-4">
@@ -25,7 +25,7 @@ const Product = () => {
                     <p>{dis8}</p>
                     <p>{dis9}</p>
                     </div>
-                    <div className='mt-3'>
+                    <div className='mt-3 mb-4'>
                         {/* <button  className='btn btn-success me-3'>Live Site Link</button>
                         <button className='btn btn-info me-3'>Client Site Link</button>
                         <button className='btn btn-success me-3'>Server Site Link</button> */}
