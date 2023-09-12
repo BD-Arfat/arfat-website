@@ -29,9 +29,9 @@ const Product = () => {
                         {/* <button  className='btn btn-success me-3'>Live Site Link</button>
                         <button className='btn btn-info me-3'>Client Site Link</button>
                         <button className='btn btn-success me-3'>Server Site Link</button> */}
-                        <a  className='btn btn-success text-sm me-3' target='_blank' href={live}>Live Site </a>
-                        <a className='btn btn-info text-sm me-3' target='_blank' href={github}>Client Site </a>
-                        <a  className='btn btn-success text-sm me-3' target='_blank' href={server}>Server Site </a>
+                        <a  className='btn btn-success text-sm me-3 ' target='_blank' href={live}>Live Site </a>
+                        <a className='btn btn-info text-sm me-3 ' target='_blank' href={github}>Client Site </a>
+                        <a  className='btn btn-success text-sm me-3 mt-2' target='_blank' href={server}>Server Site </a>
                     </div>
                 </div>
             </div>

@@ -26,7 +26,7 @@ const Navabar = () => {
                         }
                     </ul>
                 </div>
-                <Link draggable='true' to={'/'} className="text-5xl font-bold lg:ms-4 logo">ARFAT</Link>
+                <Link draggable='true' to={'/'} className=" text-3xl md:text-5xl font-bold lg:ms-4 logo">ARFAT</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
