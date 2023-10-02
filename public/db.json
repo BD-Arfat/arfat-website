@@ -1,20 +1,5 @@
 [
-    {
-        "name": "𝐂𝐚𝐫 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐂𝐞𝐧𝐭𝐞𝐫",
-        "image": "https://i.ibb.co/TmqW0qb/projects-1.jpg",
-        "dis1": "✔ User can filter products by Search and category",
-        "dis2": "✔ User can sort products by Price",
-        "dis3": "✔ Authenticated User can Add products",
-        "dis4": "✔ He/she can make a Product",
-        "dis5": "✔ He/she can change product status and delete from Wishlist",
-        "dis6": "✔ Here are the payment methods used",
-        "dis7": "✔ This full stack site may be a mini e-commerce site.",
-        "dis8": "✔ Payment system has been arranged.",
-        "Technology": " redux, redux toolkit, React Router, Firebase, sslcommerz NodeJS 😍",
-        "live": "https://carfusioncenter.netlify.app/",
-        "github": "https://github.com/BD-Arfat/CarFusionCenter",
-        "server": "https://github.com/BD-Arfat/redux-car-shops-server"
-    },
+    
     {
         "name": "Book Shop",
         "image": "https://i.ibb.co/WBrwWZP/projects-5.jpg",
