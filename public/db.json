@@ -1,5 +1,4 @@
 [
-    
     {
         "name": "Book Shop",
         "image": "https://i.ibb.co/WBrwWZP/projects-5.jpg",
@@ -14,17 +13,16 @@
         "github": "https://github.com/BD-Arfat/book-shop",
         "server": "https://github.com/BD-Arfat/book-shop-server"
     },
-
     {
-        "name": "Food restaurant",
-        "image": "https://i.ibb.co/n0tS0YW/photo-2023-10-09-20-13-21.jpg",
+        "name": "E-Commerce",
+        "image": "https://i.ibb.co/0F6Btzf/photo-2023-10-14-16-38-43.jpg",
         "dis1": "Here I have used bootstrap, css and javascript",
         "dis2": "It is a one page website",
         "dis3": "This website is used for accounts that have animations",
         "dis4": "This website is fully responsive",
-        "Technology": "Bootstrap, css, javascript ",
-        "filter" : "bootstrap",
-        "live": "https://bd-arfat.github.io/bootstrap-food-restaurant/#home",
-        "github": "https://github.com/BD-Arfat/bootstrap-food-restaurant"
+        "Technology": "Bootstrap, Html, css, javascript ",
+        "filter": "bootstrap",
+        "live": "https://bd-arfat.github.io/bootstrap-e-Commerce-project/#home",
+        "github": "https://github.com/BD-Arfat/bootstrap-e-Commerce-project"
     }
 ]
